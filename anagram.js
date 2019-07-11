@@ -30,11 +30,12 @@ function validAnagram(first_string, second_string) {
              
              return false;
          }
-         if (second_frequency[key] !== first_frequency[key]) {
-           
-           return false;
-           
-         }
+         if (second_frequency[key] !== first_frequency[key]) {
+           
+           return false;
+             
+        }
+    
      }
      
      return true;

@@ -1,1 +1,1 @@
-Wrote anagram function using frequency counter patter
+This is an anagram function with frequency counter pattern
